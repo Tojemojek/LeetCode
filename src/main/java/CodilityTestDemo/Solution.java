@@ -1,4 +1,4 @@
-package CodilityTestDemo;
+package main.java.CodilityTestDemo;
 
 import java.util.TreeSet;
 
